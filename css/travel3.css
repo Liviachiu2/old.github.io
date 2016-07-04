@@ -1,0 +1,10 @@
+.col-md-3 img{border-radius: 50%;border: 20px solid skyblue;}
+.container{padding-top: 40px;}
+h5{margin-bottom:  50px;margin-top: 50px; line-height: 40px;background-color:#56b2d8; border-radius: 10px;color: white;width: 150px;text-align: center;}
+.nav{background-color: black;color: aliceblue;}
+.nav>a{color: azure;}
+.col-md-3{color: dimgray;}
+h4{padding-top: 15px; color: black;}
+p{padding-top: -15px;}
+.col-md-6{padding: 20px;border: 1.2px dashed green;}
+#dodo{background-color: orchid;}
